@@ -1,2 +1,3 @@
 # test-manipulate-compress
-demo: padding compress file
+demonstration to manipulate compressed file for concatenation with padding
+
